@@ -23,6 +23,4 @@ I'm **Shaurya Rattan**, a B.Tech CSE student at **Banasthali Vidyapith**, passio
 ## Contact
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shaurya-rattan-979005329/)
-- 📸 [Instagram](https://instagram.com/shauryarattan6)
-- 💻 [HackerRank](https://www.hackerrank.com/profile/shauryarattan6)
 - 📧 shauryarattan6@gmail.com
